@@ -28,7 +28,14 @@ G_{t+1}
 \sum_i w_{i,t}\phi(I_{i,t},R_{i,t})
 \right)
 \]
+## Attribution
 
+This repository contains the original implementation and experimental
+artifacts developed by Chaitanya Singh Chandra for the CogMI functional
+information framework.
+
+If this work is used, extended, or referenced, please acknowledge the
+original work and cite the associated research publication when available.
 ## Experiments
 
 The notebook contains four controlled experiments:
